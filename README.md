@@ -1,6 +1,6 @@
 ![banner](images/banner_ipjh.png)
 
-<h2><p style="text-align: center;">Aspiring Software Engineer</p></h2>
+<h2><p style="text-align: center;">Undergraduate, Nanyang Technological University</p></h2>
 
 Hello, I am Ivan, an undergraduate in Computer Science at [Nanyang Technological University](https://www.ntu.edu.sg/). I enjoy the process of designing and developing applications. I love the challenge of solving problems with the aid of programming. It is a marvel to see what the power of computing beholds!
 <br/>
