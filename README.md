@@ -1,23 +1,11 @@
 ![banner](images/banner_ipjh.png)
 
 <!-- <h2><p style="text-align: center;">Undergraduate, Nanyang Technological University</p></h2> -->
-
+## Introduction
 Hello, I am Ivan, an undergraduate in Computer Science at [Nanyang Technological University](https://www.ntu.edu.sg/). I enjoy the process of designing and developing applications. I love the challenge of solving problems with the aid of programming. It is a marvel to see what the power of computing beholds!
 <br/>
 
-
-
-### 🤝 Connect With Me:
-<bn/>
-
-<a href="https://www.linkedin.com/in/ivanpjh/"><img align="left" src="images/linkedin.png" alt="LinkedIn icon" width="25px" style="margin: 5px;"/></a>
-
-<a href="https://www.instagram.com/ivanpjh/"><img align="left" src="images/instagram.png" alt="Instagram icon" width="25px" style="margin: 5px;"/></a>
-
-<a href="mailto:ivanpjh@gmail.com"><img align="left" src="images/gmail.png" alt="Gmail icon" width="25px" style="margin: 5px;"/></a>
-
-<br/>
-<br/>
+---
 
 ### ✏️ Technical Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -38,8 +26,24 @@ Hello, I am Ivan, an undergraduate in Computer Science at [Nanyang Technological
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
+
 ### 💪 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingteerex)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingteerex)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🤝 Connect With Me:
+<bn/>
+
+<a href="https://www.linkedin.com/in/ivanpjh/"><img align="left" src="images/linkedin.png" alt="LinkedIn icon" width="25px" style="margin: 5px;"/></a>
+
+<a href="https://www.instagram.com/ivanpjh/"><img align="left" src="images/instagram.png" alt="Instagram icon" width="25px" style="margin: 5px;"/></a>
+
+<a href="mailto:ivanpjh@gmail.com"><img align="left" src="images/gmail.png" alt="Gmail icon" width="25px" style="margin: 5px;"/></a>
+
+<br/>
+<br/>
