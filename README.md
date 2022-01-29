@@ -43,6 +43,8 @@ Hello, I am Ivan, an undergraduate in Computer Science at [Nanyang Technological
 
 <a href="https://www.instagram.com/ivanpjh/"><img align="left" src="images/instagram.png" alt="Instagram icon" width="25px" style="margin: 5px;"/></a>
 
+<a href="https://codingteerex.github.io/"><img align="left" src="images/web.png" alt="Instagram icon" width="25px" style="margin: 5px;"/></a>
+
 <a href="mailto:ivanpjh@gmail.com"><img align="left" src="images/gmail.png" alt="Gmail icon" width="25px" style="margin: 5px;"/></a>
 
 <br/>
