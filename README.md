@@ -31,9 +31,8 @@ Hello, I am Ivan, an undergraduate in Computer Science at [Nanyang Technological
 
 ### 💪 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingteerex)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingteerex)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingteerex)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingteerex)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
